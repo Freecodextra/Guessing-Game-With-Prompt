@@ -3,8 +3,8 @@
 ## Live Site
 [Live Site](https://guessing-game-prompt.netlify.app/)
 
-##REPL LINK
-[Repl Link](https://replit.com/@Freecodextra/Guessing-Game?v=1)
+## Replit Link
+[Repit Link](https://replit.com/@Freecodextra/Guessing-Game?v=1)
 
 ## Screenshots
 
