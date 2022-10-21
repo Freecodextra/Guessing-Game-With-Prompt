@@ -16,7 +16,7 @@ function start() {
       alert("Welcome to Level "+ (level+1));
       random(level + 1);
     } else if (num != randNum) {
-      alert("Game Over "+ username + " Your Final Level is "+ level);
+      alert("Game Over "+ username + " Your Final Level is "+ level + " & Your Score is "+ (level-1));
       var restart = window.confirm("Do You Want To Restart?");
       if (restart) {
         random(1);
