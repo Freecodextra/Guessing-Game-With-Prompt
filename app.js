@@ -1,7 +1,7 @@
 //Get Username 
 var username = prompt("Welcome to Guessing Game. Enter a username");
 function start() {
-  var username = prompt("Welcome to Guessing Game. Enter a username");
+  username = prompt("Welcome to Guessing Game. Enter a username");
   random(1);
  }
  
